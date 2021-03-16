@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate.validator:hibernate-validator:6.0.13.Final">
+    <CLASSES>
+      <root url="jar://D:/qq文件/Spring tool suite/Spring tool suite/mvn-repository/org/hibernate/validator/hibernate-validator/6.0.13.Final/hibernate-validator-6.0.13.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/qq文件/Spring tool suite/Spring tool suite/mvn-repository/org/hibernate/validator/hibernate-validator/6.0.13.Final/hibernate-validator-6.0.13.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/qq文件/Spring tool suite/Spring tool suite/mvn-repository/org/hibernate/validator/hibernate-validator/6.0.13.Final/hibernate-validator-6.0.13.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

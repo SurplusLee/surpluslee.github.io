@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d72fbc7b-4914-429e-a8f8-03d27bac3269" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\qq文件\Spring tool suite\Spring tool suite\mvn-repository" />
+        <option name="userSettingsFile" value="D:\qq文件\Spring tool suite\Spring tool suite\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k8aQ13JLqx9Zx38ey2jeMK66qS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NewBeeMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="newbee-mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ltd.newbee.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ltd.newbee.mall.NewBeeMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NewBeeMallApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72fbc7b-4914-429e-a8f8-03d27bac3269" name="Default Changelist" comment="" />
+      <created>1605084653335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605084653335</updated>
+      <workItem from="1605084659698" duration="501000" />
+      <workItem from="1605085232663" duration="66000" />
+      <workItem from="1605085322645" duration="213000" />
+      <workItem from="1605085584244" duration="155000" />
+      <workItem from="1605149289458" duration="2662000" />
+      <workItem from="1605186426921" duration="1054000" />
+      <workItem from="1605227112152" duration="2015000" />
+      <workItem from="1605255854815" duration="57000" />
+      <workItem from="1605255982253" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="273" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605085029306">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="273" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605085029306" />
+    <state x="740" y="302" key="FileChooserDialogImpl" timestamp="1605085673821">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605085673821" />
+    <state width="1314" height="266" key="GridCell.Tab.0.bottom" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.0.center" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.0.left" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.0.right" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.1.bottom" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.1.center" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.1.left" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state width="1314" height="266" key="GridCell.Tab.1.right" timestamp="1605257294260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1314" height="266" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605257294260" />
+    <state x="461" y="189" key="SettingsEditor" timestamp="1605085436062">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="189" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605085436062" />
+    <state x="334" y="118" key="new project wizard" timestamp="1605085738357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="118" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1605085738357" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/newbee_mall$NewBeeMallApplication.ic" NAME="NewBeeMallApplication Coverage Results" MODIFIED="1605186746796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ltd.newbee.mall.*</FILTER>
+    </SUITE>
+  </component>
+</project>
